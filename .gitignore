@@ -7,3 +7,7 @@ UEProject/Intermediate/*
 
 # Cache files for the editor to use
 UEProject/DerivedDataCache/*
+
+Windows/*
+
+UEProject/Build/*
